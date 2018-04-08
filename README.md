@@ -37,4 +37,3 @@ Una volta apportate le modifiche nella tua *Fork* potresti voler chiedere all'au
 
 Se desideri che i cambiamenti apportati vengano inseriti nella repo originale puoi inviare una *PullRequest*. Cliccare l'icona della Pull Request ![Pull Request](new pull request.PNG) . Se le modifiche applicate non contrastano con il contenuto della *repo* originale apparira un'icona verde ![immagine](create pull request.PNG) . cliccando sul pulsante "create pull request" verrà chiesto di inserire un titolo e una descrizione della modifica effettuata (questo passaggio è opzionale). A questo punto le modifiche saranno visionate dal creatore della *repo* originale e potranno essere inserite attraverso il comando *Merge Pull Request* (solo il creatore della repository può salvare le modifiche nel proprio progetto )
 
-[Md](file:///C:/Users/Elia/Documents/project/Rmarkdown.html)
