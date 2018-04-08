@@ -24,7 +24,7 @@ una *Fork* è una copia di una repo e permette di compiere qualunque modifica se
 ---
 ## Pull Request
 
-Una volta apportate le modifiche nella tua *Fork* potresti voler chiedere all'autore del progetto originale di inserire le tue modifiche nella *repo* originale. Questa richiesta prende il nome di *Pull Request*.Una volta aperta una *Pull Request*, è possibile discutere e rivedere le potenziali modifiche con i collaboratori prima che le modifiche vengano unite nella *Repository*.
+Una volta apportate le modifiche nella tua *Fork* potresti voler chiedere all'autore del progetto originale di inserire le tue modifiche nella *repo* originale. Questa richiesta prende il nome di *Pull Request*. Una volta aperta una *Pull Request*, è possibile discutere e rivedere le potenziali modifiche con i collaboratori prima che le modifiche vengano unite nella *Repository*.
 
 ### Come creare una Fork
 
