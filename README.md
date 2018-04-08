@@ -21,14 +21,17 @@ Una *Repository* (abbreviata in repo) è il "luogo" dove viene caricato un proge
 
 una *Fork* è una copia di una repo e permette di compiere qualunque modifica senza agire sul progetto originale.Più comunemente, le *Fork* vengono utilizzate per proporre modifiche al progetto di qualcun altro o per utilizzare il progetto di qualcun altro come punto di partenza per la propria idea.
 
+
+### Come creare una Fork
+
+Per creare una *Fork* cliccare sul simbolo ![Fork](fork.PNG) in alto a destra della pagina della *repo* che si vuole copiare.A questo punto puoi compiere modifiche e cambiamenti sulla tua *Fork* senza modificare la repo originale.Puoi clonare la *Fork* sul tuo Pc per lavorare in remoto e sincronizzarla al progetto originale per trasferire le modifiche dalla *repository* originale al clone locale della *Fork*. Per ulteriori info vedere [GitHub Help](https://help.github.com/articles/fork-a-repo/).
+
+
 ---
 ## Pull Request
 
 Una volta apportate le modifiche nella tua *Fork* potresti voler chiedere all'autore del progetto originale di inserire le tue modifiche nella *repo* originale. Questa richiesta prende il nome di *Pull Request*. Una volta aperta una *Pull Request*, è possibile discutere e rivedere le potenziali modifiche con i collaboratori prima che le modifiche vengano unite nella *Repository*.
 
-### Come creare una Fork
-
-Per creare una *Fork* cliccare sul simbolo ![Fork](fork.PNG) in alto a destra della pagina della *repo* che si vuole copiare.A questo punto puoi compiere modifiche e cambiamenti sulla tua *Fork* senza modificare la repo originale.Puoi clonare la *Fork* sul tuo Pc per lavorare in remoto e sincronizzarla al progetto originale per trasferire le modifiche dalla *repository* originale al clone locale della *Fork*. Per ulteriori info vedere [GitHub Help](https://help.github.com/articles/fork-a-repo/).
 
 ### Come inviare una Pull Request
 
