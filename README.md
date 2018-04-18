@@ -1,11 +1,5 @@
 # Dalla Fork alla Pull Request
 
-- [Accenno su GitHub](#Accenno-su-GitHub)
-- [Repository](#Repository)
-- [Fork](#Fork)
-- [Pull Request](#Pull-Request)
-
----
 
 ## Accenno su GitHub
 
