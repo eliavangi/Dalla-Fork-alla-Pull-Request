@@ -30,9 +30,9 @@ Una volta apportate le modifiche nella tua *Fork* potresti voler chiedere all'au
 
 ###Come creare una Fork
 
-per creare una *Fork* cliccare sul simbolo ![Fork](fork.PNG) in alto a destra della pagina della repo che si vuole copiare.A questo punto puoi compiere modifiche e cambiamenti sulla tua *Fork* senza modificare la repo originale.Puoi clonare la *Fork* sul tuo Pc per lavorare in remoto e sincronizzarla al progetto originale per trasferire le modifiche dalla *repository* originale al clone locale della *Fork*. Per ulteriori info vedere [GitHub Help](https://help.github.com/articles/fork-a-repo/). 
+per creare una *Fork* cliccare sul simbolo **Fork** in alto a destra della pagina della repo che si vuole copiare.A questo punto puoi compiere modifiche e cambiamenti sulla tua *Fork* senza modificare la repo originale.Puoi clonare la *Fork* sul tuo Pc per lavorare in remoto e sincronizzarla al progetto originale per trasferire le modifiche dalla *repository* originale al clone locale della *Fork*. Per ulteriori info vedere [GitHub Help](https://help.github.com/articles/fork-a-repo/). 
 
 ###Come inviare una Pull Request
 
-Se desideri che i cambiamenti apportati vengano inseriti nella repo originale puoi inviare una *PullRequest*. Cliccare l'icona della *Pull Request* ![Pull Request](new pull request.PNG). Se le modifiche applicate non contrastano con il contenuto della repo originale apparira un'icona verde ![immagine](create pull request.PNG). cliccando sul pulsante "create pull request" verrà chiesto di inserire un titolo  e una descrizione della modifica effettuata (questo passaggio è opzionale). 
+Se desideri che i cambiamenti apportati vengano inseriti nella repo originale puoi inviare una *PullRequest*. Cliccare l'icona della *Pull Request* **new pull request**. Se le modifiche applicate non contrastano con il contenuto della repo originale apparira un'icona verde !con la scritta **create pull request**. cliccando sul pulsante "create pull request" verrà chiesto di inserire un titolo  e una descrizione della modifica effettuata (questo passaggio è opzionale). 
 A questo punto le modifiche saranno visionate dal creatore della repo originale e potranno essere inserite attraverso il comando *Merge Pull Request* (solo il creatore della *repository* può salvare le modifiche nel proprio progetto )
