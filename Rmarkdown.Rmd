@@ -2,7 +2,9 @@
 title: "Dalla Fork alla Pull Request"
 author: "Elia Vangi"
 date: "31 marzo 2018"
-output: html_document
+output:
+         html_document:
+         toc:true
 
          
 ---
@@ -11,20 +13,20 @@ output: html_document
 ```
 ##Accenno su GitHub
 
-GitHub Ë una piattaforma *hostin web* basata sul software *open source* di *version control*Git, che permette lo sviluppo in collaborazione di progetti di qualunque tipo.
-Una volta aperto un account su GitHub, sar‡ possibile caricare progetti e lavori da condividere con gli altri utenti;cercare nelle *repository* di altri alla ricerca di un progetto interessante con il quale collaborare o dal quale prendere spunto; entrare in contatto con altre persone e condividere con loro progetti e idee
+GitHub √® una piattaforma *hostin web* basata sul software *open source* di *version control*Git, che permette lo sviluppo in collaborazione di progetti di qualunque tipo.
+Una volta aperto un account su GitHub, sar√† possibile caricare progetti e lavori da condividere con gli altri utenti;cercare nelle *repository* di altri alla ricerca di un progetto interessante con il quale collaborare o dal quale prendere spunto; entrare in contatto con altre persone e condividere con loro progetti e idee
 
 ##Repository
 
-Una *Repository* (abbreviata in repo) Ë il "luogo" dove viene caricato un progetto. Contiene tutti i file inerenti al progetto e tutte le versioni dello stesso. Nel caso di repo pubbliche le repo possono essere visibili a tutti, gli utenti possono accedervi e modificare il progetto. Per evitare che chiunque possa manomettere o scombinare i codici, i cambiamenti apportati al progetto devono essere valutati e concessi dall'autore della repo.
+Una *Repository* (abbreviata in repo) √® il "luogo" dove viene caricato un progetto. Contiene tutti i file inerenti al progetto e tutte le versioni dello stesso. Nel caso di repo pubbliche le repo possono essere visibili a tutti, gli utenti possono accedervi e modificare il progetto. Per evitare che chiunque possa manomettere o scombinare i codici, i cambiamenti apportati al progetto devono essere valutati e concessi dall'autore della repo.
 
 ##Fork
 
-una *Fork* Ë una copia di una repo e permette di compiere qualunque modifica senza agire sul progetto originale.Pi˘ comunemente, le *Fork* vengono utilizzate per proporre modifiche al progetto di qualcun altro o per utilizzare il progetto di qualcun altro come punto di partenza per la propria idea.
+una *Fork* √® una copia di una repo e permette di compiere qualunque modifica senza agire sul progetto originale.Pi√π comunemente, le *Fork* vengono utilizzate per proporre modifiche al progetto di qualcun altro o per utilizzare il progetto di qualcun altro come punto di partenza per la propria idea.
 
 ##Pull Request
 
-Una volta apportate le modifiche nella tua *Fork* potresti voler chiedere all'autore del progetto originale di inserire le tue modifiche nella repo originale. Questa richiesta prende il nome di *Pull Request*.Una volta aperta una *Pull Request*, Ë possibile discutere e rivedere le potenziali modifiche con i collaboratori prima che le modifiche vengano unite nella *Repository*.
+Una volta apportate le modifiche nella tua *Fork* potresti voler chiedere all'autore del progetto originale di inserire le tue modifiche nella repo originale. Questa richiesta prende il nome di *Pull Request*.Una volta aperta una *Pull Request*, √® possibile discutere e rivedere le potenziali modifiche con i collaboratori prima che le modifiche vengano unite nella *Repository*.
 
 ###Come creare una Fork
 
@@ -32,5 +34,5 @@ per creare una *Fork* cliccare sul simbolo ![Fork](fork.PNG) in alto a destra de
 
 ###Come inviare una Pull Request
 
-Se desideri che i cambiamenti apportati vengano inseriti nella repo originale puoi inviare una *PullRequest*. Cliccare l'icona della *Pull Request* ![Pull Request](new pull request.PNG). Se le modifiche applicate non contrastano con il contenuto della repo originale apparira un'icona verde ![immagine](create pull request.PNG). cliccando sul pulsante "create pull request" verr‡ chiesto di inserire un titolo  e una descrizione della modifica effettuata (questo passaggio Ë opzionale). 
-A questo punto le modifiche saranno visionate dal creatore della repo originale e potranno essere inserite attraverso il comando *Merge Pull Request* (solo il creatore della *repository* puÚ salvare le modifiche nel proprio progetto )
+Se desideri che i cambiamenti apportati vengano inseriti nella repo originale puoi inviare una *PullRequest*. Cliccare l'icona della *Pull Request* ![Pull Request](new pull request.PNG). Se le modifiche applicate non contrastano con il contenuto della repo originale apparira un'icona verde ![immagine](create pull request.PNG). cliccando sul pulsante "create pull request" verr√† chiesto di inserire un titolo  e una descrizione della modifica effettuata (questo passaggio √® opzionale). 
+A questo punto le modifiche saranno visionate dal creatore della repo originale e potranno essere inserite attraverso il comando *Merge Pull Request* (solo il creatore della *repository* pu√≤ salvare le modifiche nel proprio progetto )
