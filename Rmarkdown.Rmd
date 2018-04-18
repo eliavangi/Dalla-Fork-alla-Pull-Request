@@ -3,7 +3,7 @@ title: "Dalla Fork alla Pull Request"
 author: "Elia Vangi"
 date: "31 marzo 2018"
 output:
-         html_document:
+         github_document:
          toc:true
 
          
