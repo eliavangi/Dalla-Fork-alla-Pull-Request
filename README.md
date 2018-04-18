@@ -23,7 +23,7 @@ una *Fork* è una copia di una repo e permette di compiere qualunque modifica se
 
 ### Come creare una Fork
 
-Per creare una *Fork* cliccare sul simbolo ![Fork](file:///C:/Users/Elia/Documents/project/fork.PNG) in alto a destra della pagina della *repo* che si vuole copiare.A questo punto puoi compiere modifiche e cambiamenti sulla tua *Fork* senza modificare la repo originale. Puoi clonare la *Fork* sul tuo Pc per lavorare in remoto e sincronizzarla al progetto originale per trasferire le modifiche dalla *repository* originale al clone locale della *Fork*. Per ulteriori info vedere [GitHub Help](https://help.github.com/articles/fork-a-repo/).
+Per creare una *Fork* cliccare sul simbolo ![Fork](fork.PNG) in alto a destra della pagina della *repo* che si vuole copiare.A questo punto puoi compiere modifiche e cambiamenti sulla tua *Fork* senza modificare la repo originale. Puoi clonare la *Fork* sul tuo Pc per lavorare in remoto e sincronizzarla al progetto originale per trasferire le modifiche dalla *repository* originale al clone locale della *Fork*. Per ulteriori info vedere [GitHub Help](https://help.github.com/articles/fork-a-repo/).
 
 
 ---
